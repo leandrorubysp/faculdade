@@ -15,6 +15,7 @@ body {
 
 .container {
   height: 80vh;
+  margin-left: 20px;
 }
 
 .footer {
